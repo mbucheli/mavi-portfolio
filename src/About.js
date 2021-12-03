@@ -10,7 +10,7 @@ function About() {
                             <p style={{fontFamily: "Domine"}}>Javascript | HTML | CSS | React | React Materialize |  MongoDB | Elephant SQL  |  Bootstrap | Styled Components | SASS | Node.js | Express | jQuery | AJAX | Github</p>
                         </div>
                         <div className="card-action">
-                            <a href="#" target="_blank" rel="noreferrer">Resume</a>
+                            {/* <a href="#" target="_blank" rel="noreferrer">Resume</a> */}
                             <a href="https://github.com/mbucheli" target="_blank" rel="noreferrer">Github</a>
                             <a href="https://www.linkedin.com/in/mavi-bucheli/" target="_blank" rel="noreferrer">LinkedIn</a>
                         </div>
