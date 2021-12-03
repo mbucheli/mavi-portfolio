@@ -4,6 +4,7 @@ import NavBar from './NavBar';
 import Projects from './Projects';
 import ContactMe from './ContactMe';
 import About from './About';
+import Home from './Home';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/contactme" element={<ContactMe /> } />
         <Route exact path="/about" element={<About /> } />
       </Routes>
+      <Home/>
     </div>
   );
 }
