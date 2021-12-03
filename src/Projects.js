@@ -42,9 +42,25 @@ function Projects() {
                 </div>
                 <div className="card-reveal" style={{ fontFamily: "Domine" }}>
                     <span className="card-title grey-text text-darken-4" style={{ fontSize: "30px" }}>Happy Tail<i className="material-icons right">close</i></span>
-                    <p style={{ fontSize: "18px" }}>Happy Tail is a full CRUD application built with MERN. As a user Happy Tail let's you store, add, update, and delete clients/pets. AAU I should be to add information like, a pet name, image link, service, schedule, client's name, and pet's needs for each client/pet. Built with: MongoDB, Express, Node.js, React, HTML, CSS3, Bootstrap, Google Fonts, Coolors.co</p>
+                    <p style={{ fontSize: "18px" }}>Happy Tail is a full CRUD application built with MERN. As a user Happy Tail let's you store, add, update, and delete clients/pets. AAU I should be to add information like, a pet name, image link, service, schedule, client's name, and pet's needs for each client/pet. Built with: MongoDB, Express, React, Node.js, HTML, CSS3, Bootstrap, Google Fonts, Coolors.co</p>
                     <p><a href="https://github.com/mbucheli/project3-happy-tail-frontend-" target="_blank">Happy Tail's Front-End Github</a></p>
                     <p><a href="https://github.com/mbucheli/project3-happy-tail-backend" target="_blank">Happy Tail's Back-End Github</a></p>
+                </div>
+            </div>
+            {/* Nurse Mern */}
+            <div className="card" style={{ width: "60vw", height: "70vh", borderRadius: "10px", marginLeft: "auto", marginRight: "auto", marginTop: "80px", marginBottom: "50px", backgroundColor: "#e1dee9" }}>
+                <div className="card-image waves-effect waves-block waves-light" >
+                    <img className="activator" src="https://i.imgur.com/tgcHX3O.png" alt="" style={{ marginLeft: "auto", marginRight: "auto", width: "95%", marginTop: "20px", borderRadius: "10px" }} />
+                </div>
+                <div className="card-content">
+                    <span className="card-title activator grey-text text-darken-4" style={{ fontFamily: "Domine" }}>Nurse Mern<i className="material-icons right">more_vert</i></span>
+                    <p><a href="https://jolly-jackson-b9afe1.netlify.app/" target="_blank">Live Site</a></p>
+                </div>
+                <div className="card-reveal" style={{ fontFamily: "Domine" }}>
+                    <span className="card-title grey-text text-darken-4" style={{ fontSize: "30px" }}>Nurse Mern<i className="material-icons right">close</i></span>
+                    <p style={{ fontSize: "18px" }}>Nurse Mern is a full CRUD application built with MERN, made for mobile view but has desktop view. As a user I want Nurse Mern to manage my medication/s, so that I may keep track of my dosages. Built with: MongoDB, Express, React, Node.js, React Materialize, Moment.js, Syncfusion React Calendar, HTML, CSS3, and Google Fonts.</p>
+                    <p><a href="https://github.com/mbucheli/project-capstone-frontend" target="_blank">Nurse Mern's Front-End Github</a></p>
+                    <p><a href="https://github.com/mbucheli/project-capstone-backend" target="_blank">Nurse Mern's Back-End Github</a></p>
                 </div>
             </div>
         </div>
