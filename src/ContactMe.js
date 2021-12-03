@@ -27,7 +27,7 @@ function ContactMe() {
                 <li className="collection-item avatar" style={{ height: "15vh", paddingTop: "45px" }}>
                     <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-3691226-3073746.png" alt="" className="circle" />
                     <span className="title" style={{ fontWeight: "Bold", fontSize: "22px" }}>LinkedIn</span>
-                    <p style={{ fontSize: "18px" }}><a href="https://www.linkedin.com/in/mavi-bucheli/" target="_blank">My Profile</a></p>
+                    <p style={{ fontSize: "18px" }}><a href="https://www.linkedin.com/in/mavi-bucheli/" target="_blank" rel="noreferrer">My Profile</a></p>
                     <a href="#!" className="secondary-content" style={{ paddingTop: "25px", paddingRight: "25px" }}><i className="material-icons" style={{ color: "#847f9b", fontSize: "35px" }}>compare_arrows</i></a>
                 </li>
             </ul>
