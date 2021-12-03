@@ -3,7 +3,7 @@ function Projects() {
         <div>
             {/* Chef Random */}
             <div className="card" style={{ width: "60vw", height: "70vh", borderRadius: "10px", marginLeft: "auto", marginRight: "auto", marginTop: "80px", backgroundColor: "#e1dee9" }}>
-                <div className="card-image waves-effect waves-block waves-light" >
+                <div className="card-image waves-effect waves-block waves-light">
                     <img className="activator" src="https://i.imgur.com/9wEXyAj.png" alt="" style={{ marginLeft: "auto", marginRight: "auto", width: "95%", marginTop: "20px", borderRadius: "10px" }} />
                 </div>
                 <div className="card-content">

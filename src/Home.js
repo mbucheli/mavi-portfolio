@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
     return(
-        <div style={{textAlign: "center", marginTop: "200px", marginBottom: "100px"}}>
+        <div style={{textAlign: "center", marginTop: "250px", marginBottom: "100px"}}>
             <Link to="/about" 
             className="waves-effect waves-light btn pulse" 
             style={{width: "40vw", height: "40vh", backgroundColor: "#e1dee9", color: "black", borderRadius: "10px", fontFamily: "Domine", paddingTop: "5px"}}>
